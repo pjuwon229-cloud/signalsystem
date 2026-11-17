@@ -3,7 +3,7 @@
 ## 1. 제출 정보
 * **팀명:** 10사기
 * **제출 회차:** 1차 제출
-* **커밋 해시(Commit Hash):** 
+* **커밋 해시(Commit Hash):** 284d556
 
 ## 2. 저장소 파일 구성
 * `noise_reduction_baselines.ipynb`: 잡음 제거 알고리즘(Wiener Filter 고도화) 실행 및 검증 코드
